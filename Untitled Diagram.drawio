@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T14:31:12.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="WhOOfKd3t9dV_4kzhLah" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T08:14:02.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="yc1YgHq8wMDsIK3dSPFb" version="14.8.0" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="2749" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7c3789c024ecab99-82" value="fourth floor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-82" value="Basement(Surveying and GIS,Health safety and enviroment,planning,warehouse,PMO)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="78" y="1355" width="1065" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="7c3789c024ecab99-81" value="thirds floor&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-81" value="Thirds floor(Purchasing,movement and operation,logistics,finace,reception)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="75" y="900" width="1065" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="7c3789c024ecab99-79" value="second floor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-79" value="second floor(Design,IT,Data center/servers room(Odoo-DC windows AD)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="78" y="462" width="1065" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="7c3789c024ecab99-78" value="firs floor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-78" value="first floor(General Manager,Kitchen,HR,administyration,Technocred)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="100" y="20" width="1065" height="420" as="geometry" />
         </mxCell>
         <mxCell id="7c3789c024ecab99-55" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;" parent="1" source="7c3789c024ecab99-8" target="DdyyzYHFz9jRjWtr3Mpa-1" edge="1">
@@ -217,22 +217,22 @@
             <mxPoint x="823.4000000000001" y="332.20000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-1" value="D-Link&lt;br&gt;DIR-816&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-1" value="D-Link&lt;br&gt;DIR-816&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" parent="1" vertex="1">
           <mxGeometry x="1030" y="545" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-2" value="Dlink 10-100 PoE switch&lt;br&gt;(DES 1018p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-2" value="Dlink 10-100 PoE switch&lt;br&gt;(DES 1018p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="890" y="510" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-3" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-3" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="750" y="517.5" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-4" value="CISCO&lt;br&gt;sg350-28p&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-4" value="CISCO&lt;br&gt;sg350-28p&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="410" y="530" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-5" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-5" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="600" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-6" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-4" target="DdyyzYHFz9jRjWtr3Mpa-3">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-6" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-4" target="DdyyzYHFz9jRjWtr3Mpa-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1969.9999999999995" y="139.13043478260852" as="targetPoint" />
             <mxPoint x="1600" y="300" as="sourcePoint" />
@@ -241,120 +241,120 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-11" value="UP link" style="endArrow=none;html=1;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-2" target="DdyyzYHFz9jRjWtr3Mpa-3">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-11" value="UP link" style="endArrow=none;html=1;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-2" target="DdyyzYHFz9jRjWtr3Mpa-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1710" y="190" as="sourcePoint" />
             <mxPoint x="1710" y="-165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-12" value="UP link" style="endArrow=none;html=1;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-5" target="DdyyzYHFz9jRjWtr3Mpa-4">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-12" value="UP link" style="endArrow=none;html=1;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-5" target="DdyyzYHFz9jRjWtr3Mpa-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1510" y="370" as="sourcePoint" />
             <mxPoint x="1510" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-13" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-13" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="560" y="1050" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-14" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-14" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="550" y="1450" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-15" value="printers&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.0.1-50" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-15" value="printers&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.0.1-50" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" parent="1" vertex="1">
           <mxGeometry x="780" y="770" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-16" value="printers&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.0.1-50" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-16" value="printers&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.0.1-50" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" parent="1" vertex="1">
           <mxGeometry x="780" y="1189.41" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-17" value="printers&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.0.1-50" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-17" value="printers&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.0.1-50" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" parent="1" vertex="1">
           <mxGeometry x="820" y="1630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-18" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-18" value="D-Link&lt;br&gt;(web smart switch DES-1210-28p)" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="620" y="100" width="80" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-20" value="printers&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.0.1-50" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-20" value="printers&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.0.1-50" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" parent="1" vertex="1">
           <mxGeometry x="770" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-21" value="Telephone&lt;br&gt;DHCP 192.168.0.50-254" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/business-telephone-office-outline-stroke-128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-21" value="Telephone&lt;br&gt;DHCP 192.168.0.50-254" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/business-telephone-office-outline-stroke-128.png" parent="1" vertex="1">
           <mxGeometry x="190" y="150" width="73.5" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-22" value="Telephone&lt;br&gt;DHCP 192.168.0.50-254" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/business-telephone-office-outline-stroke-128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-22" value="Telephone&lt;br&gt;DHCP 192.168.0.50-254" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/business-telephone-office-outline-stroke-128.png" parent="1" vertex="1">
           <mxGeometry x="170" y="650" width="73.5" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-23" value="Telephone&lt;br&gt;DHCP 192.168.0.50-254" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/business-telephone-office-outline-stroke-128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-23" value="Telephone&lt;br&gt;DHCP 192.168.0.50-254" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/business-telephone-office-outline-stroke-128.png" parent="1" vertex="1">
           <mxGeometry x="850" y="1051.5" width="73.5" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-24" value="Telephone&lt;br&gt;DHCP 192.168.0.50-254" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/business-telephone-office-outline-stroke-128.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-24" value="Telephone&lt;br&gt;DHCP 192.168.0.50-254" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/miu/24/business-telephone-office-outline-stroke-128.png" parent="1" vertex="1">
           <mxGeometry x="940" y="1540" width="73.5" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-25" value="IP camera&amp;nbsp;&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.1-50" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-25" value="IP camera&amp;nbsp;&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.1-50" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" parent="1" vertex="1">
           <mxGeometry x="302" y="82" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-26" value="IP camera&amp;nbsp;&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.1-50" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-26" value="IP camera&amp;nbsp;&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.1-50" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" parent="1" vertex="1">
           <mxGeometry x="146" y="513.5" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-27" value="IP camera&amp;nbsp;&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.1-50" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-27" value="IP camera&amp;nbsp;&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.1-50" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" parent="1" vertex="1">
           <mxGeometry x="202" y="1010" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-28" value="IP camera&amp;nbsp;&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.1-50" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" vertex="1" parent="1">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-28" value="IP camera&amp;nbsp;&lt;br&gt;DHCP Reservation&amp;nbsp;&lt;br&gt;192.168.1-50" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/house/128/CCTV.png" parent="1" vertex="1">
           <mxGeometry x="180" y="1430" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-29" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-18" target="DdyyzYHFz9jRjWtr3Mpa-25">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-29" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-18" target="DdyyzYHFz9jRjWtr3Mpa-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1650" y="140" as="sourcePoint" />
             <mxPoint x="1250" y="142.95358649788977" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-30" value="" style="endArrow=none;html=1;fontFamily=Helvetica;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-18" target="DdyyzYHFz9jRjWtr3Mpa-21">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-30" value="" style="endArrow=none;html=1;fontFamily=Helvetica;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-18" target="DdyyzYHFz9jRjWtr3Mpa-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1930" y="150" as="sourcePoint" />
             <mxPoint x="1530" y="152.95358649788977" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-31" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" target="DdyyzYHFz9jRjWtr3Mpa-22">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-31" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" parent="1" target="DdyyzYHFz9jRjWtr3Mpa-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="610" as="sourcePoint" />
             <mxPoint x="1000" y="762.9535864978898" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-32" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-5" target="DdyyzYHFz9jRjWtr3Mpa-26">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-32" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-5" target="DdyyzYHFz9jRjWtr3Mpa-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1550" y="810" as="sourcePoint" />
             <mxPoint x="1150" y="812.9535864978898" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-33" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-13" target="DdyyzYHFz9jRjWtr3Mpa-27">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-33" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-13" target="DdyyzYHFz9jRjWtr3Mpa-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1670" y="1000" as="sourcePoint" />
             <mxPoint x="1270" y="1002.9535864978898" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-34" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-23" target="DdyyzYHFz9jRjWtr3Mpa-13">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-34" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-23" target="DdyyzYHFz9jRjWtr3Mpa-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1440" y="1070" as="sourcePoint" />
             <mxPoint x="1040" y="1072.9535864978898" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-35" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-24" target="DdyyzYHFz9jRjWtr3Mpa-14">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-35" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-24" target="DdyyzYHFz9jRjWtr3Mpa-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="1510" as="sourcePoint" />
             <mxPoint x="1160" y="1572.9535864978898" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-36" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-14" target="DdyyzYHFz9jRjWtr3Mpa-28">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-36" value="" style="endArrow=none;html=1;fontFamily=Helvetica;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-14" target="DdyyzYHFz9jRjWtr3Mpa-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1810" y="1500" as="sourcePoint" />
             <mxPoint x="1410" y="1502.9535864978898" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-39" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-14" target="DdyyzYHFz9jRjWtr3Mpa-13">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-39" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-14" target="DdyyzYHFz9jRjWtr3Mpa-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1370" y="1030" as="targetPoint" />
             <Array as="points">
@@ -365,7 +365,7 @@
             <mxPoint x="1560" y="1310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-40" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;" edge="1" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-13" target="DdyyzYHFz9jRjWtr3Mpa-3">
+        <mxCell id="DdyyzYHFz9jRjWtr3Mpa-40" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;" parent="1" source="DdyyzYHFz9jRjWtr3Mpa-13" target="DdyyzYHFz9jRjWtr3Mpa-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1220" y="730" as="targetPoint" />
             <Array as="points">
@@ -376,6 +376,9 @@
             </Array>
             <mxPoint x="1620" y="1000" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L3vmsOcLrc5DrNEiIemH-4" value="Basement, surveying and GIS, health, safety and environment, planning, warehouse" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="1500" width="470" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
